@@ -28,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0090-subsets-ii) |
+## String
+|  |
+| ------- |
+| [0091-decode-ways](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0091-decode-ways) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0091-decode-ways](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0091-decode-ways) |
 <!---LeetCode Topics End-->
