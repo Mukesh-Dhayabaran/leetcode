@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Backtracking
 |  |
 | ------- |
