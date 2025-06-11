@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0090-subsets-ii) |
+| [0169-majority-element](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -104,4 +106,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0292-nim-game) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
