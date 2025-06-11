@@ -15,7 +15,7 @@ class Solution {
             indicate[i] = freq;
         }
 
-        int max = 0,index=0;
+        int max = 0, index=0;
         for(int i=0;i<indicate.length;i++)
         {
             if(indicate[i] > max)
