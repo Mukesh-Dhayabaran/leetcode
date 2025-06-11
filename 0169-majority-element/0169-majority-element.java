@@ -16,7 +16,7 @@ class Solution {
         }
 
         int max = 0,index=0;
-        for(int i=0;i<nums.length;i++)
+        for(int i=0;i<indicate.length;i++)
         {
             if(indicate[i] > max)
             {
