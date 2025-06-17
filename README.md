@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0048-rotate-image) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0090-subsets-ii) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0096-unique-binary-search-trees) |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0258-add-digits) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
