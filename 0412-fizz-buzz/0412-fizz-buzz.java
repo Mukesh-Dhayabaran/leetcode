@@ -6,7 +6,7 @@ class Solution {
             if(i%15==0)nums.add("FizzBuzz");
             else if(i%3==0)nums.add("Fizz");
             else if(i%5==0)nums.add("Buzz");
-            else nums.add(String.valueOf(i));
+            else nums.add(""+i);
         }
         return nums;
     }
