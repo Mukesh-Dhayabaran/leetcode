@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0283-move-zeroes) |
+| [1603-running-sum-of-1d-array](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Two Pointers
 |  |
@@ -148,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0048-rotate-image) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
