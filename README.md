@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0412-fizz-buzz) |
+| [0782-jewels-and-stones](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0782-jewels-and-stones) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0202-happy-number) |
+| [0782-jewels-and-stones](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0782-jewels-and-stones) |
 ## Divide and Conquer
 |  |
 | ------- |
