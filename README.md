@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0917-boats-to-save-people) |
 | [1603-running-sum-of-1d-array](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/1791-richest-customer-wealth) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Two Pointers
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/1205-defanging-an-ip-address) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0412-fizz-buzz) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Number Theory
 |  |
 | ------- |
