@@ -3,19 +3,8 @@ class Solution {
         int x=0;
         for(String s : ops)
         {
-            for(char ch : s.toCharArray())
-            {
-                if(ch=='+')
-                {
-                    x++;
-                    break;
-                }
-                else if(ch=='-')
-                {
-                    x--;
-                    break;
-                }
-            }
+            if(s.contains("+")) x++;
+            else if(s.contains("-")) x--;
         }
         return x;
     }
