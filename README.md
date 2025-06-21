@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## Greedy
 |  |
