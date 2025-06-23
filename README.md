@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0292-nim-game) |
+| [0342-power-of-four](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0412-fizz-buzz) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2507-number-of-common-factors](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/2507-number-of-common-factors) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
@@ -208,4 +210,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
