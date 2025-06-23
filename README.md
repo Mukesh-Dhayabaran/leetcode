@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0342-power-of-four) |
 ## String
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
 |  |
