@@ -1,14 +1,15 @@
 class Solution {
     public String convertToBase7(int num) {
-        if(num==0) return "0";
-        String b = "";
         int n=num;
+        if(num==0) return "0";
+        StringBuilder b = new StringBuilder("");
         num=Math.abs(num);
 		while(num!=0)
 		{
-		    b = num%7+b;
+		    b.append(num%7);
 		    num/=7;
 		}
-        return n>0 ? b : "-"+b;
+        if(n<0)b.append("-");
+        return b.reverse().toString();
     }
 }
