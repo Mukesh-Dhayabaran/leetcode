@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0504-base-7) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0367-valid-perfect-square) |
 ## Breadth-First Search
 |  |
 | ------- |
