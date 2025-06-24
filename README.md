@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0268-missing-number) |
 | [0917-boats-to-save-people](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0917-boats-to-save-people) |
 ## Math
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0342-power-of-four) |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0342-power-of-four) |
 ## String
 |  |
@@ -145,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0268-missing-number) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -162,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0782-jewels-and-stones) |
 ## Divide and Conquer
 |  |
