@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0268-missing-number) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0268-missing-number) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0258-add-digits) |
 | [2507-number-of-common-factors](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/2507-number-of-common-factors) |
 ## Matrix
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0204-count-primes) |
 | [2507-number-of-common-factors](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/2507-number-of-common-factors) |
 ## Sliding Window
 |  |
