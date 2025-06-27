@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0728-self-dividing-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1013-fibonacci-number](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/1086-divisor-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2507-number-of-common-factors](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/2507-number-of-common-factors) |
 ## Backtracking
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0097-interleaving-string) |
 | [1013-fibonacci-number](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/1086-divisor-game) |
 ## Linked List
 |  |
 | ------- |
@@ -177,10 +179,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/1086-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/1086-divisor-game) |
 ## Hash Table
 |  |
 | ------- |
