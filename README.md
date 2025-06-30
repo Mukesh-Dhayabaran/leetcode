@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0917-boats-to-save-people](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0917-boats-to-save-people) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/1791-richest-customer-wealth) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/1086-divisor-game) |
 | [1195-distribute-candies-to-people](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/1195-distribute-candies-to-people) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2507-number-of-common-factors](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/2507-number-of-common-factors) |
 ## Backtracking
 |  |
