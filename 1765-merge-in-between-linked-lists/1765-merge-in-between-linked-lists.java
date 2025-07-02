@@ -21,14 +21,19 @@ class Solution {
         {
             ptr1 = ptr1.next;
         }
-
-        ListNode ptr2 = list2;
-        while(ptr2!=null)
+        ptr1.next = list2;
+        while(ptr1.next!=null)
         {
-            ptr1.next = ptr2;
-            ptr2 = ptr2.next;
             ptr1 = ptr1.next;
         }
+
+        // ListNode ptr2 = list2;
+        // while(ptr!=null)
+        // {
+        //     ptr1.next = ptr2;
+        //     ptr2 = ptr2.next;
+        //     ptr1 = ptr1.next;
+        // }
         ptr1.next = temp;
         return list1;
     }
