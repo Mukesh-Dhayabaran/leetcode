@@ -8,10 +8,12 @@ class Solution {
             else
             stack.push(ch);
         }
-        String result = "";
-        for(char ch : stack)
-        result = result+String.valueOf(ch);
+        StringBuilder result = new StringBuilder();
+        while(!stack.isEmpty())
+        result.insert(0,stack.pop());
+        // for(char ch : stack)
+        // result = result+String.valueOf(ch);
 
-        return result;
+        return result.toString();
     }
 }
