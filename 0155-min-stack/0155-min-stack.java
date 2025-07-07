@@ -1,13 +1,13 @@
 class MinStack {
     Node top;
-    // int min = Integer.MAX_VALUE;
     class Node
     {
-        int data;
+        int data,min;
         Node next;
-        Node(int d)
+        Node(int d,int m)
         {
             data = d;
+            min = m;
             next = null;
         }
     }
@@ -16,14 +16,13 @@ class MinStack {
     }
     
     public void push(int val) {
-        Node newNode = new Node(val);
-        // if(newNode.data<min) 
-        // min = newNode.data;
         if(top == null)
         {
+            Node newNode = new Node(val,val);
             top = newNode;
             return;
         }
+        Node newNode = new Node(val,top.min > val ? val : top.min);
         newNode.next = top;
         top = newNode;
     }
@@ -37,15 +36,7 @@ class MinStack {
     }
     
     public int getMin() {
-        int min = Integer.MAX_VALUE;
-        Node ptr = top;
-        while(ptr!=null)
-        {
-            if(ptr.data<min)
-            min = ptr.data;
-            ptr = ptr.next;
-        }
-        return min;
+        return top.min;
     }
 }
 
