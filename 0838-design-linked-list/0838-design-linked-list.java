@@ -1,5 +1,5 @@
 class MyLinkedList {
-List<Integer> list;
+    List<Integer> list;
 
     public MyLinkedList() {
         list = new ArrayList<>();
