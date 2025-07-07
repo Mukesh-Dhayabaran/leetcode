@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0091-decode-ways](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0093-restore-ip-addresses) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Tree
 |  |
