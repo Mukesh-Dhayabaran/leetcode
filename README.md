@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0605-can-place-flowers](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0859-design-circular-deque](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0860-design-circular-queue) |
 | [0917-boats-to-save-people](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0917-boats-to-save-people) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0838-design-linked-list](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0838-design-linked-list) |
+| [0859-design-circular-deque](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0860-design-circular-queue) |
 | [1765-merge-in-between-linked-lists](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/1765-merge-in-between-linked-lists) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0155-min-stack) |
 | [0838-design-linked-list](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0838-design-linked-list) |
+| [0859-design-circular-deque](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0860-design-circular-queue) |
 ## Doubly-Linked List
 |  |
@@ -304,5 +307,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
