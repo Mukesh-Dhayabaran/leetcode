@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0100-same-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0100-same-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0367-valid-perfect-square) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0155-min-stack) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0838-design-linked-list](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0860-design-circular-queue) |
@@ -309,4 +313,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0859-design-circular-deque](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0860-design-circular-queue) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
