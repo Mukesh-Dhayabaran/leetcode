@@ -20,7 +20,7 @@ class Solution {
         return list;
     }
 
-        public void preorder(TreeNode node,List<Integer> list)
+        public static void preorder(TreeNode node,List<Integer> list)
         {
             if(node == null)
             return;
