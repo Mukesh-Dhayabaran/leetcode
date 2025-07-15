@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0155-min-stack) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Tree
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
