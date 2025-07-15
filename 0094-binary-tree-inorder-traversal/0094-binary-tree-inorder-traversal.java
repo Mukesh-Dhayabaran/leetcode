@@ -1,18 +1,18 @@
 class Solution {
   public List<Integer> inorderTraversal(TreeNode root) {
-    List<Integer> ans = new ArrayList<>();
-    Deque<TreeNode> stack = new ArrayDeque<>();
-
-    while (root != null || !stack.isEmpty()) {
-      while (root != null) {
-        stack.push(root);
-        root = root.left;
-      }
-      root = stack.pop();
-      ans.add(root.val);
-      root = root.right;
+    List<Integer> list = new ArrayList<>();
+        preorder(root,list);
+        return list;
     }
 
-    return ans;
-  }
+        public static void preorder(TreeNode node,List<Integer> list)
+        {
+            if(node == null)
+            return;
+
+            preorder(node.left,list);
+            list.add(node.val);
+            preorder(node.right,list);
+        }
+
 }
