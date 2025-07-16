@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1806-count-of-matches-in-tournament](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/1806-count-of-matches-in-tournament) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1965-sum-of-digits-in-base-k](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/1965-sum-of-digits-in-base-k) |
 | [2507-number-of-common-factors](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/2507-number-of-common-factors) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0782-jewels-and-stones) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/1205-defanging-an-ip-address) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3396-valid-word](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/3396-valid-word) |
 ## Dynamic Programming
