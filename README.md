@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/2238-a-number-after-a-double-reversal) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2507-number-of-common-factors](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/2507-number-of-common-factors) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 ## Backtracking
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1195-distribute-candies-to-people](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/1195-distribute-candies-to-people) |
 | [1806-count-of-matches-in-tournament](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 ## Number Theory
 |  |
