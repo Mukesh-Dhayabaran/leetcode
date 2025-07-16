@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1965-sum-of-digits-in-base-k](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/1965-sum-of-digits-in-base-k) |
 | [2032-largest-odd-number-in-string](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2083-three-divisors](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/2507-number-of-common-factors) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 ## Backtracking
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0258-add-digits) |
+| [2083-three-divisors](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/2507-number-of-common-factors) |
 ## Matrix
 |  |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0204-count-primes) |
+| [2083-three-divisors](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/2507-number-of-common-factors) |
 ## Sliding Window
 |  |
