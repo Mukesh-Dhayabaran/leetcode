@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/1086-divisor-game) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Linked List
 |  |
 | ------- |
