@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/2383-add-two-integers) |
 | [2507-number-of-common-factors](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/2507-number-of-common-factors) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/2679-count-distinct-numbers-on-board) |
+| [2748-calculate-delayed-arrival-time](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/2748-calculate-delayed-arrival-time) |
 ## Backtracking
 |  |
 | ------- |
