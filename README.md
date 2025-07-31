@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0500-keyboard-row](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0500-keyboard-row) |
 | [0605-can-place-flowers](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0859-design-circular-deque](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0859-design-circular-deque) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0412-fizz-buzz) |
+| [0500-keyboard-row](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0500-keyboard-row) |
 | [0742-to-lower-case](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0782-jewels-and-stones) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0500-keyboard-row](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0500-keyboard-row) |
 | [0782-jewels-and-stones](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0782-jewels-and-stones) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
