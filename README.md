@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0415-add-strings) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0097-interleaving-string) |
 | [0279-perfect-squares](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0279-perfect-squares) |
+| [0343-integer-break](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0343-integer-break) |
 | [1013-fibonacci-number](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/1086-divisor-game) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
