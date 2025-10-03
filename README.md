@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0326-power-of-three) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0097-interleaving-string) |
+| [0279-perfect-squares](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0279-perfect-squares) |
 | [1013-fibonacci-number](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/1086-divisor-game) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0279-perfect-squares) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Brainteaser
 |  |
