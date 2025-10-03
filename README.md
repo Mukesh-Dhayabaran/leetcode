@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0283-move-zeroes) |
+| [0335-self-crossing](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0335-self-crossing) |
 | [0349-intersection-of-two-arrays](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0500-keyboard-row](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0500-keyboard-row) |
 | [0598-range-addition-ii](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0598-range-addition-ii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0326-power-of-three) |
+| [0335-self-crossing](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0412-fizz-buzz) |
@@ -410,4 +412,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Geometry
+|  |
+| ------- |
+| [0335-self-crossing](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0335-self-crossing) |
 <!---LeetCode Topics End-->
