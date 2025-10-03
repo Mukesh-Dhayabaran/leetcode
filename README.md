@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0500-keyboard-row](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0500-keyboard-row) |
+| [0598-range-addition-ii](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0598-range-addition-ii) |
 | [0605-can-place-flowers](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0507-perfect-number) |
+| [0598-range-addition-ii](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0728-self-dividing-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
