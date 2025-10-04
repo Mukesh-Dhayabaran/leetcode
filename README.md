@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0097-interleaving-string) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0279-perfect-squares](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0343-integer-break) |
 | [1013-fibonacci-number](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/1013-fibonacci-number) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0226-invert-binary-tree) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0226-invert-binary-tree) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0226-invert-binary-tree) |
