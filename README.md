@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0169-majority-element) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0097-interleaving-string) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0279-perfect-squares](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0343-integer-break) |
