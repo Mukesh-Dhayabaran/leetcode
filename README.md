@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0415-add-strings) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
@@ -279,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
