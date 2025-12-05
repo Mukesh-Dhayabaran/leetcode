@@ -16,8 +16,7 @@
 class Solution {
     int max_depth = 0;
     public int maxDepth(TreeNode root) {
-        depth(root,0);
-        return max_depth;
+        return depth(root,0);
     }
 
     public int depth(TreeNode root, int count) {
