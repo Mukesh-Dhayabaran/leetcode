@@ -14,25 +14,22 @@
  * }
  */
 class Solution {
-    int min_depth = Integer.MAX_VALUE;
-
     public int minDepth(TreeNode root) {
         if (root == null) return 0;
-        depth(root, 0);
-        return min_depth;
+        return depth(root,0);
     }
 
     int depth(TreeNode root, int count) {
-        if (root == null) return min_depth;     
+        if (root == null) return Integer.MAX_VALUE;
+
         count++;
-        if (root.left == null && root.right == null) {
-            min_depth = Math.min(min_depth,count);
+
+        if (root.left == null && root.right == null)
             return count;
-        }
 
         int left = depth(root.left,count);
         int right = depth(root.right,count);
 
-        return Math.min(left,right);      
+        return Math.min(left,right);
     }
 }
