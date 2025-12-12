@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0096-unique-binary-search-trees) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0096-unique-binary-search-trees) |
@@ -469,4 +471,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0335-self-crossing](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0335-self-crossing) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Mukesh-Dhayabaran/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
